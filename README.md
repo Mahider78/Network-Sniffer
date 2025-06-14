@@ -4,22 +4,6 @@
 
 A **highly configurable**, Python-based network packet sniffer for Linux, capable of decoding Ethernet, IPv4, TCP/UDP/ICMP protocols, and displaying payload contents in human-readable form.
 
----
-
-## 📋 Table of Contents
-
-1. [Features]
-2. [Prerequisites] 
-3. [Installation]  
-4. [Usage] 
-5. [Configuration & Filters]
-6. [Example Output]
-7. [Extending & Contributing]  
-8. [Security & Legal](
-9. [License]  
-10. [Author]  
-
----
 
 ## 🔥 Features
 
